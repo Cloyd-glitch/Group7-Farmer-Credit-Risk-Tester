@@ -1,3 +1,5 @@
+GROUP7-Farmer Credit Risk
+
 Agricultural lending institutions often face difficulties in evaluating farmer loan applicants because farming income is highly affected by crop yield, farming experience, debt level, irrigation access, and repayment behavior. Traditional loan evaluation methods are often manual, time-consuming, and inconsistent, which can increase the risk of loan defaults and financial losses.
 
 This project proposes a Farmer Credit Risk Classification System using the ID3 (Iterative Dichotomiser 3) Decision Tree Algorithm to help classify farmer loan applicants into High Risk or Low Risk categories. The system uses entropy and information gain calculations to determine the most influential factors affecting farmer credit behavior and automatically generate interpretable decision rules.
