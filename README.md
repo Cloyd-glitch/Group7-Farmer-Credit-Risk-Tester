@@ -10,4 +10,4 @@ The ID3 algorithm recursively splits the dataset based on the feature with the h
 
 Several experiments were conducted to validate the performance of the proposed model, including tree depth control, cross-validation testing, feature importance analysis, and entropy versus Gini impurity comparison. Experimental results showed that the model achieved strong predictive performance with 84.5% testing accuracy while maintaining interpretability.
 
-This project demonstrates how machine learning and decision tree analysis can support agricultural lending institutions in making faster, more accurate, and data-driven credit risk assessments for farmers.
+This project demonstrates how machine learning and decision tree analysis can support agricultural lending institutions in making faster, more accurate, and data-driven credit risk assessments for farmers. 
