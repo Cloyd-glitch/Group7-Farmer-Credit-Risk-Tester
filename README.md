@@ -1,4 +1,4 @@
-## Group7-Farmer-Credit-Risk-Tester
+## Group7-Farmer-Credit-Risk-Classifier
 
 Agricultural lending institutions often face difficulties in evaluating farmer loan applicants because farming income is highly affected by crop yield, farming experience, debt level, irrigation access, and repayment behavior. Traditional loan evaluation methods are often manual, time-consuming, and inconsistent, which can increase the risk of loan defaults and financial losses.
 
